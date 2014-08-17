@@ -6,5 +6,5 @@ Install details:
 then everything is done
 
 Screenshot:
-![screenshot](Screenshots/screenshot.png)
+![screenshot](Screenshots/Screenshot.png)
 

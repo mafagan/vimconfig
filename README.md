@@ -1,4 +1,4 @@
-VIM configuration for C\C++
+VIM configuration for C\C++ (Only for Linux)
 ======
 Install details:
 ------
